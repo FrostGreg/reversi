@@ -5,7 +5,7 @@
  * - creates both frames, the board state, and an AI for each frame.
  * */
 
-package psygf1_CW;
+package reversi;
 
 import java.awt.BorderLayout;
 import java.awt.Color;

@@ -3,7 +3,7 @@
  * - initiates and stores the values for the Reversi Board
  * - handles searching of the board, changing of the players, and modifying the board
  * */
-package psygf1_CW;
+package reversi;
 
 public class BoardState {
 	public boolean isWhiteTurn = true;

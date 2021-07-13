@@ -1,4 +1,4 @@
-package psygf1_CW;
+package reversi;
 
 import javax.swing.JOptionPane;
 

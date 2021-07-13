@@ -4,7 +4,7 @@
  * - handles button graphics
  * */
 
-package psygf1_CW;
+package reversi;
 
 import java.awt.Color;
 import java.awt.Dimension;

@@ -6,7 +6,7 @@
  * - method to find the next empty element
  * */
 
-package psygf1_CW;
+package reversi;
 
 public class RevList {
 	public int row, col;

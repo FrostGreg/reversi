@@ -4,7 +4,7 @@
  * - handles the AI for each frame
  * */
 
-package psygf1_CW;
+package reversi;
 
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
