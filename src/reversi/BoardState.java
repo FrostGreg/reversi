@@ -1,4 +1,4 @@
-/* BoardState Class / Author: @psygf1
+/* BoardState Class / Author: @Greg.Frost
  * 
  * - initiates and stores the values for the Reversi Board
  * - handles searching of the board, changing of the players, and modifying the board

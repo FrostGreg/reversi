@@ -1,4 +1,4 @@
-/* Frame Class / Author: @psygf1
+/* Frame Class / Author: @Greg.Frost
  * 
  * - extends JFrame, implements ActionListener interface
  * - Handles button clicks for grid

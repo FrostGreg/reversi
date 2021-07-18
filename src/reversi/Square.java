@@ -1,4 +1,4 @@
-/* Sqaure Class / Author: @psygf1
+/* Sqaure Class / Author: @Greg.Frost
  * 
  * - extends JButton, implements MouseListener interface
  * - handles button graphics

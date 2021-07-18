@@ -1,4 +1,4 @@
-/* AI Class / Author: @psygf1
+/* AI Class / Author: @Greg.Frost
  * 
  * - implements the ActionListener interface
  * - handles the AI for each frame

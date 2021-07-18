@@ -1,4 +1,4 @@
-/* RevList Class / Author: @psygf1
+/* RevList Class / Author: @Greg.Frost
  * 
  * - List style class 
  * - get/set element methods
