@@ -25,9 +25,9 @@ Program start:
 
 Game Progress|Player White POV: | Player Black POV:
 |------------|------------------|-------------------|
-| Program Start | ![Image of start game from white player point of view](docs/assets/white_start.png) | ![Image of start game from black player point of view](docs/assets/black_start.png)|
-| Game Finish | ![Image of end game from white player point of view](docs/assets/white_end.png)| ![Image of end game from black player point of view](docs/assets/black_end.png) |
+| Program Start | ![Image of start game from white player point of view](docs/assets/white_start.PNG) | ![Image of start game from black player point of view](docs/assets/black_start.PNG)|
+| Game Finish | ![Image of end game from white player point of view](docs/assets/white_end.PNG)| ![Image of end game from black player point of view](docs/assets/black_end.PNG) |
 
 Pop-up when game finishes:
 
-![Image of pop up telling who won](docs/assets/win_message.png)
+![Image of pop up telling who won](docs/assets/win_message.PNG)
